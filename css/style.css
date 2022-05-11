@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+body {
+    background-color: blue;
+}
+
+main {
+    background-image: url(../img/img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* Altura | Largura */
+    /* height | width */
+    /* background-size: 130px 90px; */
+    background-position: center center;
+}
+
+/* RGB */
+/* RED */
+/* GREEN */
+/* BLUE */
+h1 {
+    /* color: red; */
+    /* color: #ff0000; */
+    /* color: rgb(255, 0, 0); */
+    /* color: rgba(255, 0, 0, 0.1); */
+    /* color: #ff000019; */
+    color: #ffffff;
+}
